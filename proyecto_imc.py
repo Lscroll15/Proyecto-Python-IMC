@@ -29,7 +29,7 @@ print("Nombre: ", apellido_materno, apellido_paterno, nombre)
 print("\nPeso: ", peso)
 print("\nEstaura: ", estatura)
 print("\n============================")
-print("   IMC: ",round(imc, 4))     #<------ Reducimos a solo cuatro digitos despues del punto con "round"
+print("   IMC: ",round(imc, 4))     #<------ Redondeamos a solo 4 decimales
 print("============================")
 
 
